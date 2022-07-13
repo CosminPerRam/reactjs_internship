@@ -1,0 +1,17 @@
+﻿
+.sidebar {
+    height: 200px;
+    background-color: green;
+}
+
+.sidebar .sidebar-content {
+    height: 100%;
+    display: block;
+    background-color: blueviolet;
+}
+
+.sidebar .sidebar-content-closed {
+    height: 100%;
+    display: none;
+    background-color: blueviolet;
+}
